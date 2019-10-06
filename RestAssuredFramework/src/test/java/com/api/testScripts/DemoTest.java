@@ -8,6 +8,7 @@ public class DemoTest {
 	public void m1()
 	{
 		System.out.println("m1 running");
+		System.out.println("Good Morning");
 	}
 	
 }
